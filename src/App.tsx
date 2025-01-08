@@ -19,7 +19,7 @@ const App: React.FC = () => {
   console.log(todos)
 
   return (
-    <div style={{backgroundColor: "#2f74c0"}}>
+    <div style={{backgroundColor: "#2f74c0", textAlign: "center"}}>
       <span className="heading">
         Taskify
       </span>
